@@ -10,7 +10,8 @@
 BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 
 ## Discussion
-[Telegram](https://t.me/fvblackbox)
+[Telegram Channel](https://t.me/devminati)
+[Telegram Group](https://t.me/devminati_public)
 
 ## Support
 Currently we don't consider supporting Android 4.x, it supports Android 5.0 ～ 12.0.
@@ -99,7 +100,7 @@ If you want to perform more operations, please refer to the source code.
 
 You can contribute to this project by making pull requests.
 ### About pull requests
-1. Both Chinese and English commit message / comment are ok,  but you should elaborate on your code.
+1. English commit message / comment are ok,  but you should elaborate on your code.
 2. Please follow the code style and design pattern of this project.
 3. Welcome everybody take part in this project.
 
@@ -114,6 +115,7 @@ This project is a free open source project , routine maintenance consumes a lot 
 - USDT(TRC20): TDzBj9eV1Cdmmj9xd5Y1YLsQqC8zVgi7yd
 
 ## Credits
+- [FBlackBox](https://github.com/FBlackBox) Main Developer
 - [VirtualApp](https://github.com/asLody/VirtualApp)
 - [VirtualAPK](https://github.com/didi/VirtualAPK)
 - [BlackReflection](https://github.com/CodingGay/BlackReflection)
